@@ -1,0 +1,16 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment files containing secrets
+.env
+
+# PDF files
+*.pdf
+
+# Editor settings
+.vscode/
